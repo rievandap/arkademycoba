@@ -1,6 +1,7 @@
 print('masukan nilai :')
 count = int(input())
 print('nilai yang dimasukkan = ',count)
+#test
 
 n = 0
 while (count != 1):    
