@@ -13,3 +13,4 @@ while (count != 1):
         n = n+1
         print(count)
 print('Bilangan Asli dengan operasi terbanyak =', n)
+print('Done')
